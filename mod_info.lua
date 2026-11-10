@@ -12,7 +12,7 @@ for ranked.
 AI DISCLOSURE: written with substantial AI assistance (Claude, Anthropic) -
 design and implementation. See github.com/Pewdoloco/faf-mod-timestampedmarkers.]]
 author = "BagFromWalmart"
-icon = ""
+icon = "/mods/TimestampedMarkers/icon.png"
 url = "https://github.com/Pewdoloco/faf-mod-timestampedmarkers"
 selectable = true
 enabled = true
